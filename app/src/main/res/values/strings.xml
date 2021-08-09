@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">beginner</string>
+    <string-array name="disaster_names">
+        <item>Disaster</item>
+        <item>Disaster management</item>
+        <item>Earthquake</item>
+        <item>flood</item>
+        <item>Cyclone</item>
+        <item>Landslides</item>
+        <item>Volcano</item>
+        <item>Tornado</item>
+        <item>Tsunami</item>
+        <item>Drought</item>
+        <item>Nuclear accidents</item>
+        <item>Chemical and biological disasters</item>
+        <item>Survival Skills and Precautions</item>
+        <item>Emergency mode of communication</item>
+        <item>Disaster Management Team</item>
+        <item>Disaster Preparedness</item>
+        <item>Number</item>
+
+    </string-array>
+</resources>
